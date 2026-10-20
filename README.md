@@ -91,6 +91,7 @@
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[TrueHold](https://www.truehold.xyz/)** - A portfolio tracker that reads DeFi positions across EVM chains and Solana by public address, next to exchange accounts and Hyperliquid and Lighter perp positions.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
 
 ## Security and Auditing
